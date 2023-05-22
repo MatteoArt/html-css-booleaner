@@ -1,0 +1,25 @@
+header {
+    background-image: url("../images/pattern.png");
+    background-color: rgb(122, 163, 225);
+    height: 175px;
+}
+#logo {
+    width: 170px;
+}
+#titolo {
+    font-size: 40px;
+}
+#firma {
+    color: grey;
+    font-size: 25px;
+}
+#span1 {
+    color: rgb(92, 199, 223);
+}
+#data {
+    color: grey;
+    font-size: 15px;
+}
+#caption {
+    font-size: 13px;
+}
